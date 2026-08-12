@@ -80,12 +80,12 @@ Repositório criado para registrar minha evolução durante os estudos de Java.
 
 ```text
 ┌──────────────────────────────────────────────┐
-│              CAMINHO DA ALANNA               │
+│                 MEUS CAMINHOS                │
 ├──────────────────────────────────────────────┤
 │                                              │
-│  [✓] Lógica de Programação                  │
-│  [✓] Fundamentos de Java                    │
-│  [✓] Programação Orientada a Objetos        │
+│  [✓] Lógica de Programação                   │
+│  [✓] Fundamentos de Java                     │
+│  [✓] Programação Orientada a Objetos         │
 │  [→] Aprimorar Java                          │
 │  [→] SQL                                     │
 │  [→] Git & GitHub                            │
