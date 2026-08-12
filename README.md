@@ -13,7 +13,7 @@
 
 ---
 
-## `> SOBRE_MIM`
+## `> SOBRE MIM`
 
 Olá! Eu sou a **Alanna**, estudante de **Engenharia de Software** e atualmente direcionando minha formação para desenvolvimento **Backend**.
 
@@ -25,7 +25,7 @@ Meu objetivo é construir uma base sólida em desenvolvimento Backend e evoluir 
 
 ---
 
-## `> TECNOLOGIAS_E_FERRAMENTAS`
+## `> TECNOLOGIAS E FERRAMENTAS`
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Repositório criado para registrar minha evolução durante os estudos de Java.
 
 ---
 
-## `> ESTUDANDO_ATUALMENTE`
+## `> ESTUDANDO ATUALMENTE`
 
 ```text
 ┌──────────────────────────────────────────────┐
@@ -96,7 +96,7 @@ Repositório criado para registrar minha evolução durante os estudos de Java.
 └──────────────────────────────────────────────┘
 ```
 
-## `> CONECTE_SE_COMIGO`
+## `> CONECTE-SE COMIGO`
 
 <div align="center">
 
