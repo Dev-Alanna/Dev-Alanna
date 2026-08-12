@@ -100,7 +100,8 @@ Repositório criado para registrar minha evolução durante os estudos de Java.
 │  [ ] Backend Projects                        │
 │                                              │
 └──────────────────────────────────────────────┘
-> GITHUB_STATS
+```
+> ESTATÍSTICAS_DO_GITHUB
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Alanna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alanna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Dev-Alanna&theme=tokyon-dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"> </div>
 > CONTRIBUTION_ACTIVITY
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Alanna&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"> </div>
