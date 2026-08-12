@@ -21,7 +21,7 @@ Meu principal foco de estudos é **Java**, com atenção especial à lógica de 
 
 Também estou desenvolvendo meus conhecimentos em **SQL**, além de aprendendo a utilizar **Git e GitHub** para versionar e organizar meus projetos.
 
-🎯 Meu objetivo é construir uma base sólida em desenvolvimento Backend e evoluir continuamente como desenvolvedora Java.
+Meu objetivo é construir uma base sólida em desenvolvimento Backend e evoluir continuamente como desenvolvedora Java.
 
 ---
 
@@ -42,17 +42,17 @@ Também estou desenvolvendo meus conhecimentos em **SQL**, além de aprendendo a
 
 **Ferramentas que eu utilizo nos meus estudos:**
 
-* ☕ Java
-* 💡 IntelliJ IDEA
-* 🐙 Git e GitHub
-* 🗄️ SQL / MySQL
-* 📊 Excel
+* Java
+* IntelliJ IDEA
+* Git e GitHub
+* SQL / MySQL
+* Excel
 
 ---
 
 ## `> PROJETOS`
 
-### ☕ Java — Estudos e Práticas
+###  Java — Estudos e Práticas
 
 Repositório criado para registrar minha evolução durante os estudos de Java.
 
@@ -118,6 +118,6 @@ Repositório criado para registrar minha evolução durante os estudos de Java.
 
 **APRENDER • CONSTRUIR • DEPURAR • EVOLUIR**
 
-☕ **Desenvolvedora Backend Java em formação**
+ **Desenvolvedora Backend Java em formação**
 
 </div>
