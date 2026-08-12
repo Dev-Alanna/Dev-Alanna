@@ -40,7 +40,7 @@ Também estou desenvolvendo meus conhecimentos em **SQL**, além de aprendendo a
 
 </div>
 
-**Ferramentas que utilizo nos estudos:**
+**Ferramentas que eu utilizo nos estudos:**
 
 * ☕ Java
 * 💡 IntelliJ IDEA
