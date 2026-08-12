@@ -96,22 +96,6 @@ Repositório criado para registrar minha evolução durante os estudos de Java.
 └──────────────────────────────────────────────┘
 ```
 
----
-
-## `> ESTATÍSTICAS_DO_GITHUB`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Alanna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alanna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Dev-Alanna&theme=tokyon-dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-
-</div>
-
 ## `> CONECTE_SE_COMIGO`
 
 <div align="center">
