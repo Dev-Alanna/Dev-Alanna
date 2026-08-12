@@ -62,7 +62,7 @@ Repositório criado para registrar minha evolução durante os estudos de Java.
 * Programação Orientada a Objetos
 * `Scanner`
 * `ArrayList`
-* Estruturas condicionais
+* Estruturas de decisão
 * Estruturas de repetição
 * Pequenos projetos em Java
 
