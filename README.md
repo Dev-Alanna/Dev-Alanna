@@ -30,32 +30,6 @@
 
 ---
 
-## `> PROJETOS`
-
-###  Java — Estudos
-
-Repositório criado para registrar minha evolução durante os estudos de Java.
-
-**O que já pratiquei:**
-
-* Lógica de programação
-* Programação Orientada a Objetos
-* `Scanner`
-* `ArrayList`
-* Estruturas de decisão
-* Estruturas de repetição
-* Pequenos projetos em Java
-
-<div align="center">
-
-<a href="https://github.com/Dev-Alanna/java-estudos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Alanna&repo=java-estudos&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9">
-</a>
-
-</div>
-
----
-
 ## `> CONECTE-SE COMIGO`
 
 <div align="center">
