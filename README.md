@@ -13,18 +13,6 @@
 
 ---
 
-## `> SOBRE MIM`
-
-Olá! Eu sou a **Alanna**, estudante de **Engenharia de Software** e atualmente direcionando minha formação para desenvolvimento **Backend**.
-
-Meu principal foco de estudos é **Java**, com atenção especial à lógica de programação e **Programação Orientada a Objetos**.
-
-Também estou desenvolvendo meus conhecimentos em **SQL**, além de aprendendo a utilizar **Git e GitHub** para versionar e organizar meus projetos.
-
-Meu objetivo é construir uma base sólida em desenvolvimento Backend e evoluir continuamente como desenvolvedora Java.
-
----
-
 ## `> TECNOLOGIAS E FERRAMENTAS`
 
 <div align="center">
@@ -40,19 +28,11 @@ Meu objetivo é construir uma base sólida em desenvolvimento Backend e evoluir 
 
 </div>
 
-**Ferramentas que eu utilizo nos meus estudos:**
-
-* Java
-* IntelliJ IDEA
-* Git e GitHub
-* SQL / MySQL
-* Excel
-
 ---
 
 ## `> PROJETOS`
 
-###  Java — Estudos e Práticas
+###  Java — Estudos
 
 Repositório criado para registrar minha evolução durante os estudos de Java.
 
@@ -75,26 +55,6 @@ Repositório criado para registrar minha evolução durante os estudos de Java.
 </div>
 
 ---
-
-## `> ESTUDANDO ATUALMENTE`
-
-```text
-┌──────────────────────────────────────────────┐
-│                 MEUS CAMINHOS                │
-├──────────────────────────────────────────────┤
-│                                              │
-│  [✓] Lógica de Programação                   │
-│  [✓] Fundamentos de Java                     │
-│  [✓] Programação Orientada a Objetos         │
-│  [→] Aprimorar Java                          │
-│  [→] SQL                                     │
-│  [→] Git & GitHub                            │
-│  [ ] Spring Boot                             │
-│  [ ] APIs REST                               │
-│  [ ] Projetos Backend                        │
-│                                              │
-└──────────────────────────────────────────────┘
-```
 
 ## `> CONECTE-SE COMIGO`
 
