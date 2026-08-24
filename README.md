@@ -13,7 +13,7 @@
 
 ---
 
-## `> TECNOLOGIAS E FERRAMENTAS`
+## ` TECNOLOGIAS E FERRAMENTAS`
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-## `> CONECTE-SE COMIGO`
+## ` CONECTE-SE COMIGO`
 
 <div align="center">
 
