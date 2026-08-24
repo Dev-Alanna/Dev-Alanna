@@ -51,6 +51,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:2E1065,100:0D1117&height=100&section=footer" width="100%">
 
 
- **Desenvolvedora Backend Java em formação**
-
 </div>
